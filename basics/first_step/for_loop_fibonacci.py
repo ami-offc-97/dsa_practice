@@ -13,6 +13,12 @@ elif n==2:
     print(result[1])
 else:
     print(result[n-1])
+
+"""While creating a function you need to return list here and also create a object from 
+ from outside function. In the question given use the simple formula for fibonacci ,also for a
+ new index we cannot directly insert value like l[i] = l[i-1], you need to use apppend or other
+ list function as per
+ """   
             
         
 
